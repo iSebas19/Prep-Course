@@ -1,0 +1,16 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+ * Strings
+ * Funciones (argumentos, `return`)
+ * Declaraciones `if`
+ * Valores booleanos (`true`, `false`)
+
+
+RESOLUCION: Las variables son cajoncitos en donde podemos guardar distintos tipos de cosas como letras, numeros, oraciones, diferentes caracteres, etc.
+Los strings son letras, caracteres y signos especiales como el = + @ $, y muchos mas.
+Las funciones son como hacer trampa para no tener que escribir cosas que ya escribimos antes pero que necesitamos ahora, y los argumentos son para estas funciones
+y los return nos ayudan a retornar un valor o resultado.
+La declaracion if es practicamente la siguiente oracion "Si (aqui ponemos una condicion) si esto pasa va a suceder (ponemos lo que sucedera en caso de que la condicion se cumpla) 
+sino (ponemos lo que pasara si la condicion no se cumple)"
+Valores booleanos nos ayudan cuando necesitamos saber si algo es verdadero o falso.
